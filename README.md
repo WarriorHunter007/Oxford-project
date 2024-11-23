@@ -1,5 +1,5 @@
 # Oxford-project
-A website application developed to list courses.
+Website for University of Oxford!
 
 Department of Continuing Education would like to have a website application developed to list their courses.
 
